@@ -1,5 +1,5 @@
 {
-  "name": "BARAKA MD",
+  "name": "Nipsy 🍒💋🫶🏾",
   "description": "Best Whatsapp bot made by Baraka Bega & Ibrahim Adams",
   "keywords": [
     "whatsapp bot"
@@ -14,12 +14,12 @@
     },
     "MODE": {
       "description": "Enter true for public. false for private",
-      "required": true,
+      "required": false,
       "value": "public"
     },
     "AUTO_STATUS_SEEN": {
       "description": "Enter true for autoview status. false for no",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "AUTO_READ": {
@@ -39,7 +39,7 @@
     },
     "ALWAYS_ONLINE": {
       "description": "make it true if you want bot to show always online",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "AUTO_BLOCK": {
@@ -49,7 +49,7 @@
     },
     "REJECT_CALL": {
       "description": "make it true if you want to reject call",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "PREFIX": {
